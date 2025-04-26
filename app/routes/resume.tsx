@@ -20,25 +20,29 @@ export default function Resume() {
                 <div className="flex flex-col gap-4">
                   <div>
                     <div className="flex justify-between items-center">
-                      <span className="font-semibold text-gray-900 dark:text-gray-100">Frontend Developer</span>
-                      <span className="text-sm text-gray-500 dark:text-gray-400">2022 - Present</span>
+                      <span className="font-semibold text-gray-900 dark:text-gray-100">AI-Powered Study Buddy Project</span>
+                      <span className="text-sm text-gray-500 dark:text-gray-400">Jan - Apr 2025</span>
                     </div>
-                    <span className="text-gray-700 dark:text-gray-300">Tech Solutions Co., Ltd.</span>
+                    <span className="text-gray-700 dark:text-gray-300">Front-End Developer</span>
                     <ul className="list-disc list-inside text-gray-600 dark:text-gray-400 mt-1 text-sm">
-                      <li>Developed and maintained React web applications.</li>
-                      <li>Collaborated with designers to deliver beautiful UIs.</li>
-                      <li>Implemented responsive and accessible features.</li>
+                      <li>Designed and developed interactive front-end components using Nuxt.js and Vuetify.
+                      </li>
+                      <li>Integrated AI-driven text summarization features for enhanced user experience.
+                      </li>
+                      <li>Worked closely with back-end developers to ensure seamless API integration.</li>
                     </ul>
                   </div>
                   <div>
                     <div className="flex justify-between items-center">
-                      <span className="font-semibold text-gray-900 dark:text-gray-100">Intern Web Developer</span>
-                      <span className="text-sm text-gray-500 dark:text-gray-400">2021 - 2022</span>
+                      <span className="font-semibold text-gray-900 dark:text-gray-100"> E-learning Platform project</span>
+                      <span className="text-sm text-gray-500 dark:text-gray-400">Jun - Sep  2024</span>
                     </div>
-                    <span className="text-gray-700 dark:text-gray-300">Creative Studio</span>
+                    <span className="text-gray-700 dark:text-gray-300">Back-end Developer</span>
                     <ul className="list-disc list-inside text-gray-600 dark:text-gray-400 mt-1 text-sm">
-                      <li>Assisted in building landing pages and dashboards.</li>
-                      <li>Learned modern JavaScript and CSS frameworks.</li>
+                      <li>Developed and maintained the back-end infrastructure for an e-learning platform.
+                      .</li>
+                      <li>Designed and implemented RESTful APIs to support course management and user authentication.</li>
+                      <li>Optimized database performance and ensured secure data storage.</li>
                     </ul>
                   </div>
                 </div>
@@ -50,9 +54,9 @@ export default function Resume() {
                   <div>
                     <div className="flex justify-between items-center">
                       <span className="font-semibold text-gray-900 dark:text-gray-100">B.Sc. in Computer Science</span>
-                      <span className="text-sm text-gray-500 dark:text-gray-400">2018 - 2022</span>
+                      <span className="text-sm text-gray-500 dark:text-gray-400">2023 - Present</span>
                     </div>
-                    <span className="text-gray-700 dark:text-gray-300">Bangkok University</span>
+                    <span className="text-gray-700 dark:text-gray-300">Cambodia Academy of Digital Technology(CADT)</span>
                   </div>
                 </div>
               </section>
@@ -64,7 +68,7 @@ export default function Resume() {
                     React
                   </span>
                   <span className="px-4 py-1 rounded-full bg-purple-100 dark:bg-purple-900 text-purple-700 dark:text-purple-300 text-sm font-medium">
-                    TypeScript
+                    NuxtJS
                   </span>
                   <span className="px-4 py-1 rounded-full bg-pink-100 dark:bg-pink-900 text-pink-700 dark:text-pink-300 text-sm font-medium">
                     TailwindCSS
@@ -87,32 +91,32 @@ export default function Resume() {
                   <span>
                     <strong>Email:</strong>{" "}
                     <a
-                      href="mailto:jane.doe@email.com"
+                      href="mailto:soksanphork@email.com"
                       className="text-blue-500 hover:underline"
                     >
-                      jane.doe@email.com
+                      soksanphork@email.com
                     </a>
                   </span>
                   <span>
                     <strong>GitHub:</strong>{" "}
                     <a
-                      href="https://github.com/janedoe"
+                      href="https://github.com/Soksan369"
                       target="_blank"
                       rel="noopener"
                       className="text-blue-500 hover:underline"
                     >
-                      github.com/janedoe
+                      github.com/Soksan369
                     </a>
                   </span>
                   <span>
                     <strong>LinkedIn:</strong>{" "}
                     <a
-                      href="https://linkedin.com/in/janedoe"
+                      href="https://linkedin.com/in/phork-soksan-3b353130b"
                       target="_blank"
                       rel="noopener"
                       className="text-blue-500 hover:underline"
                     >
-                      linkedin.com/in/janedoe
+                      linkedin.com/in/phork-soksan-3b353130b
                     </a>
                   </span>
                 </div>

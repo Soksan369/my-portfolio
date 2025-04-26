@@ -11,7 +11,7 @@ export default function Contact() {
             </p>
             <form
               className="w-full flex flex-col gap-4"
-              action="mailto:jane.doe@email.com"
+              action="mailto:soksanphork@email.com"
               method="POST"
               encType="text/plain"
             >
@@ -45,7 +45,7 @@ export default function Contact() {
             </form>
             <div className="flex gap-6 mt-6">
               <a
-                href="mailto:jane.doe@email.com"
+                href="mailto:soksanphork@email.com"
                 className="text-gray-500 hover:text-blue-500 transition"
                 aria-label="Email"
               >
@@ -55,7 +55,7 @@ export default function Contact() {
                 </svg>
               </a>
               <a
-                href="https://github.com/janedoe"
+                href="https://github.com/Soksan369"
                 target="_blank"
                 rel="noopener"
                 className="text-gray-500 hover:text-blue-500 transition"
@@ -70,7 +70,7 @@ export default function Contact() {
                 </svg>
               </a>
               <a
-                href="https://linkedin.com/in/janedoe"
+                href="https://linkedin.com/in/phork-soksan-3b353130b"
                 target="_blank"
                 rel="noopener"
                 className="text-gray-500 hover:text-blue-500 transition"

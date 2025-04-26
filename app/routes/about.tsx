@@ -53,7 +53,7 @@ export default function About() {
                 React
               </span>
               <span className="px-4 py-1 rounded-full bg-purple-100 dark:bg-purple-900 text-purple-700 dark:text-purple-300 text-sm font-medium">
-                TypeScript
+                NuxtJS
               </span>
               <span className="px-4 py-1 rounded-full bg-pink-100 dark:bg-pink-900 text-pink-700 dark:text-pink-300 text-sm font-medium">
                 TailwindCSS

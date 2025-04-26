@@ -36,7 +36,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
       </head>
       <body>
         <Navbar/>
-        {children}
+        <div className="pt-20 min-h-screen">
+          {children}
+        </div>
         <Footer/>
         <ScrollRestoration />
         <Scripts />

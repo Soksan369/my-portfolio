@@ -2,13 +2,13 @@
   "name": "my-portfolio",
   "private": true,
   "type": "module",
-  "homepage": "https://Soksan369.github.io/my-portfolio",
+  "homepage": "https://Soksan369.github.io/my-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "vite build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build/client"
   },
   "dependencies": {
     "@react-router/node": "^7.5.2",
